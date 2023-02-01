@@ -457,7 +457,7 @@ header {
   display: flex;
   max-width: 200rem;
   background-color: #f0f1f7;
-  background-image: url("../about-thumb.png");
+  background-image: url("about-thumb.png");
   background-size: 86.5rem auto;
   background-position-x: 7rem;
   box-sizing: border-box;
@@ -1183,7 +1183,7 @@ header {
 
 .section-9 {
   /* display: flex; */
-  background-image: url(../photo_2023-01-28_23-13-15.jpg);
+  background-image: url(photo_2023-01-28_23-13-15.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
